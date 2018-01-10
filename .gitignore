@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# zapier
+build
+docs
+*.log
+.environment
